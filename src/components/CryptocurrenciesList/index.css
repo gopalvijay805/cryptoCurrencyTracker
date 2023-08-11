@@ -1,0 +1,49 @@
+.cry-constainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 110%;
+}
+.heading1 {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #00e7ff;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.cry-img {
+  width: 640px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  border: 3px solid #00e7ff;
+  border-radius: 6px;
+  margin-top: 40px;
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  padding: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.list {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.values-container {
+  display: flex;
+  align-items: center;
+}
+
+.con {
+  text-align: right;
+  color: #fff;
+  width: 50px;
+  margin-left: 8px;
+}

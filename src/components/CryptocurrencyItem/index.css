@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-container {
+  display: flex;
+  align-items: center;
+}
+.image {
+  height: 18px;
+  width: 18px;
+  margin-right: 6px;
+}
+.name {
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.user {
+  display: flex;
+  align-items: center;
+}
+
+.va {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: white;
+  width: 50px;
+  margin-left: 6px;
+  text-align: right;
+}
